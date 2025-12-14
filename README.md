@@ -1,4 +1,4 @@
-# 🚀 NumPy Practice & Hands-On Learning
+# NumPy Practice & Hands-On Learning
 
 This repository showcases my structured and hands-on learning journey with **NumPy**, focusing on building strong fundamentals through practice rather than rote memorization.
 
@@ -6,7 +6,7 @@ I worked through a wide range of problems — from basic array operations to adv
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 - **Learning NumPy/**
   - Core NumPy concepts with explanations
@@ -18,7 +18,7 @@ I worked through a wide range of problems — from basic array operations to adv
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
 - Array creation and reshaping  
 - Indexing, slicing, and fancy indexing  
@@ -29,7 +29,7 @@ I worked through a wide range of problems — from basic array operations to adv
 
 ---
 
-## 🎯 Purpose of This Repository
+##  Purpose of This Repository
 
 The goal of this project is to:
 - Build a **strong foundation in NumPy**
@@ -41,7 +41,7 @@ This repository reflects consistent practice, debugging, and learning by doing �
 
 ---
 
-## 🔜 Next Steps
+##  Next Steps
 
 - Pandas for data manipulation  
 - Data visualization with Matplotlib & Seaborn  
